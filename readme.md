@@ -14,14 +14,13 @@ Click on Shortcut name to view it on Web or import it directly to iOS device via
 
 While adding _Add Transaction_ shortcut, you’d be prompted to enter your Firefly URL and Personal Access Token. The URL is where you’ve hosted the app, complete with the protocol and without a trailing slash (like `https://demo.firefly-iii.org`). You can generate the token from Firefly by going to _Options_ > _Profile_ > scroll down to _Personal Access Tokens_ and click on _Create New Token_.  
 
-![Firefly III shortcuts folder](media/firefly-shortcut-folder.jpg)  
-
 ### Creating a transaction
 Run _Add Transaction_ shortcut and follow the steps.
 You will be asked for following parameters: Transaction type, Source account, Destination account, Description, Amount, Budget and Category.
 - Source and destination account can be asset, revenue or expense accounts based on transaction type.
 - Budget and category parameters can be skipped.
 
+Workflow demo:
 ![Demo gif](media/firefly-shortcut-demo.gif).
 
 # Acknowledgements
