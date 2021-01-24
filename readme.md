@@ -16,11 +16,12 @@ While adding _Add Transaction_ shortcut, you’d be prompted to enter your Firef
 
 ### Creating a transaction
 Run _Add Transaction_ shortcut and follow the steps.
-You will be asked for following parameters: Transaction type, Source account, Destination account, Description, Amount, Budget and Category.
+You will be asked for following parameters: `Transaction type, Source account, Destination account, Description, Amount, Budget and Category`.
 - Source and destination account can be asset, revenue or expense accounts based on transaction type.
 - Budget and category parameters can be skipped.
 
-Workflow demo:
+Workflow demo:  
+
 ![Demo gif](media/firefly-shortcut-demo.gif).
 
 # Acknowledgements
