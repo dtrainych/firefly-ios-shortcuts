@@ -20,7 +20,7 @@ You will be asked for following parameters: Transaction type, Source account, De
 - Source and destination account can be asset, revenue or expense accounts based on transaction type.
 - Budget and category parameters can be skipped.
 
-![Demo gif](media/firelfy-shortcut-demo.gif).
+![Demo gif](media/firefly-shortcut-demo.gif).
 
 # Acknowledgements
 Based on Sid's Verma [post](https://sidverma.io/2019/12/06/firefly-iii-ios-shortcuts/).  
