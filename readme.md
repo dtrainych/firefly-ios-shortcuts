@@ -1,10 +1,10 @@
 # iOS Shortcuts for Firefly III
-iOS Shortcut to create transactions in Firefly III
+A set of iOS Shortcuts to create transactions in Firefly III
 # Usage
 ### Setup
 You have to import the following four shortcuts to your iOS device. The first three are function-like dependencies of the fourth one, which is used to add a transaction. 
 
-To be able to import shortcuts from outside the app gallery, you have to go to _Settings_ > _Shortcuts_ and enable _Allow Untrusted Shortcuts_.
+To be able to import shortcuts from outside the app gallery, you have to go to **_Settings_ > _Shortcuts_** and enable **_Allow Untrusted Shortcuts_**.
 
 Click on Shortcut name to view it on Web or import it directly to iOS device via iCloud link.
 -   [List Accounts](https://showcuts.app/share/view/fae3b077e3a1458bbd7307659c7f5260)  - [Import](https://www.icloud.com/shortcuts/fae3b077e3a1458bbd7307659c7f5260)
