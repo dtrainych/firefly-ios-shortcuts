@@ -12,7 +12,7 @@ Click on Shortcut name to view it on Web or import it directly to iOS device via
 - [List Budgets](https://showcuts.app/share/view/04898949709d4554b3c53047671ced1b)  - [Import](https://www.icloud.com/shortcuts/04898949709d4554b3c53047671ced1b)
 -   [Add Transaction](https://showcuts.app/share/view/2e8832aa657f4ace88b147aeea1988da)   - [Import](https://www.icloud.com/shortcuts/2e8832aa657f4ace88b147aeea1988da)
 
-While adding _Add Transaction_ shortcut, you’d be prompted to enter your Firefly URL and Personal Access Token. The URL is where you’ve hosted the app, complete with the protocol and without a trailing slash (like `https://demo.firefly-iii.org`). You can generate the token from Firefly by going to _Options_ > _Profile_ > scroll down to _Personal Access Tokens_ and click on _Create New Token_.  
+While adding _Add Transaction_ shortcut, you’d be prompted to enter your Firefly URL and Personal Access Token. The URL is where you’ve hosted the app, complete with the protocol and without a trailing slash (like `https://demo.firefly-iii.org`). You can generate the token from Firefly by going to **_Options_ > _Profile_** > scroll down to **_Personal Access Tokens_** and click on **_Create New Token_**.  
 
 ### Creating a transaction
 Run _Add Transaction_ shortcut and follow the steps.
