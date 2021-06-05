@@ -1,5 +1,10 @@
 # iOS Shortcuts for Firefly III
-A set of iOS Shortcuts to create transactions in Firefly III
+A set of iOS Shortcuts to create transactions in Firefly III  
+
+Workflow demo:  
+
+![Demo gif](media/firefly-shortcut-demo.gif).
+
 # Usage
 ### Setup
 You have to import the following four shortcuts to your iOS device. The first three are function-like dependencies of the fourth one, which is used to add a transaction. 
@@ -19,10 +24,6 @@ Run _Add Transaction_ shortcut and follow the steps.
 You will be asked for following parameters: `Transaction type, Source account, Destination account, Description, Amount, Budget and Category`.
 - Source and destination account can be asset, revenue or expense accounts based on transaction type.
 - Budget and category parameters can be skipped.
-
-Workflow demo:  
-
-![Demo gif](media/firefly-shortcut-demo.gif).
 
 # Acknowledgements
 Based on Sid's Verma [post](https://sidverma.io/2019/12/06/firefly-iii-ios-shortcuts/).  
