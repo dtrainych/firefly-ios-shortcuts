@@ -3,7 +3,7 @@ A set of iOS Shortcuts to create transactions in Firefly III
 
 Workflow demo:  
 
-![Demo gif](media/firefly-shortcut-demo.gif).
+![Demo gif](media/firefly-shortcut-demo.gif)
 
 # Usage
 ### Setup
